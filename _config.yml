@@ -3,9 +3,9 @@ title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build f
 email:
 description: A jekyll template for landing pages, portfolio and blogging
 
-baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+baseurl: "/jekynewage" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 #url: "https://jekynewage.github.io" # the base hostname & protocol for your site
-url: "https://4mypal.github.io/jekynewage/"
+url: "https://4mypal.github.io"
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
